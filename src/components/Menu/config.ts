@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://www.aztecswap.com/',
+    href: 'https://www.blaxion.app/',
   },
   {
     label: 'Trade',
@@ -24,12 +24,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://www.aztecswap.com/farms',
+    href: 'https://www.blaxion.app/farms',
   },
   {
     label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://www.aztecswap.com/pools',
+    href: 'https://www.blaxion.app/pools',
   },
   {
     label: 'Blaxion Token',
