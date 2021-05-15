@@ -11,6 +11,13 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
+      "name": "Blaxion Token",
+      "symbol": "BXN",
+      "address": "0x33e020D046Cd410d12021DFaf01B3a0e483FfA02",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
       "name": "Aztec Gold token",
       "symbol": "GOLD",
       "address": "0x8298fea38aa8627316ffd943fe001b69cac8174d",
