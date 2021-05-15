@@ -37,11 +37,11 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'Dex Guru',
-        href: 'https://dex.guru/token/0x33e020D046Cd410d12021DFaf01B3a0e483FfA02-bsc',
+        href: 'https://dex.guru/token/0xF1F216B1b59EadAa4b6985F0574fF21383830634-bsc',
       },
       {
         label: 'Contract',
-        href: 'https://bscscan.com/token/0x33e020D046Cd410d12021DFaf01B3a0e483FfA02#readContract',
+        href: 'https://bscscan.com/token/0xF1F216B1b59EadAa4b6985F0574fF21383830634#readContract',
       },
     ],
   },
